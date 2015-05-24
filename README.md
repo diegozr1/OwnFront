@@ -1,4 +1,4 @@
-# OwnFront ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo")
+# OwnFront ![alt text](https://github.com/zdr00/OwnFront/blob/master/assets/img/logo.png "Logo")
 
 ### Speed up your start
 
@@ -8,13 +8,13 @@ This one includes the best practices for the frontend development of the modern 
 
 ## How to use
 
- - 1. Download or clone the repo 
+ - i. Download or clone the repo 
 
   	```
   		git clone https://github.com/zdr00/OwnFront.git
 
   	```
- - 2. Install **npm**, **bower**, and **gulp**
+ - ii. Install **npm**, **bower**, and **gulp**
 	
 	Go to the official to install in your OS [Nodejs](https://www.google.com), npm comes with it
 
@@ -27,11 +27,11 @@ This one includes the best practices for the frontend development of the modern 
 		npm install --global gulp
 	```	
 
- - 3. Run **gulp**	
+ - iii. Run **gulp**	
 	
 	And go to your browser
 
- - 4. Happy coding
+ - iiii. Happy coding
 
 	Go to the folder and start working on them
 
