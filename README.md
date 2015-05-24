@@ -10,7 +10,7 @@ It includes the best practices for frontend development of the modern web.
 
 -  **1.** Download the zip file or clone the repo 
 
-  	git clone https://github.com/zdr00/OwnFront.git
+  	'''git clone https://github.com/zdr00/OwnFront.git'''
   	
 
 -  **2.** Install **npm**, **bower**, and **gulp** via the command line
