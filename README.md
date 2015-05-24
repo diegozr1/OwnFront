@@ -10,7 +10,7 @@ It includes the best practices for frontend development of the modern web.
 
  **1.** Download the zip file or clone the repo 
 
-  	---git clone https://github.com/zdr00/OwnFront.git
+  	git clone https://github.com/zdr00/OwnFront.git
   	
 
  **2.** Install **npm**, **bower**, and **gulp** via the command line
@@ -19,28 +19,23 @@ It includes the best practices for frontend development of the modern web.
 
 	Install bower
 
-	```npm install --global bower
+	npm install --global bower
 	
 
 	Install gulp
-
-	```
+	
 	npm install --global gulp
-	```	
+	
 
  **3.** Go the folder *OwnFront* and 
 
  	Install the **bower** components
 
- 	```
- 	bower install
- 	```
+ 	``` bower install 	
 
  	Install the **npm** components
 
-	```
-	npm install
-	```
+	``` npm install
 
 	
 	And go to your browser at [http://localhost:1337](https://www.nodejs.org)
