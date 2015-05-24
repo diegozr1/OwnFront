@@ -8,13 +8,13 @@ It includes the best practices for frontend development of the modern web.
 
 ## How to use
 
- - **i.** Download the zip file or clone the repo 
+ **1.** Download the zip file or clone the repo 
 
   	```
   	git clone https://github.com/zdr00/OwnFront.git
   	```
 
- - **ii.** Install **npm**, **bower**, and **gulp** via the command line
+ **2.** Install **npm**, **bower**, and **gulp** via the command line
 	
 	Go to the official website of [Nodejs](https://www.nodejs.org) to install it on your OS, npm comes with it
 
@@ -27,7 +27,7 @@ It includes the best practices for frontend development of the modern web.
 	npm install --global gulp
 	```	
 
- - **iii.** Go the folder *OwnFront* and 
+ **3.** Go the folder *OwnFront* and 
 
  	Install the **bower** components
 
@@ -41,12 +41,15 @@ It includes the best practices for frontend development of the modern web.
 	```
 
 	
-	And go to your browser[http://localhost:1337](https://www.nodejs.org)
+	And go to your browser at [http://localhost:1337](https://www.nodejs.org)
 
- - **iiii.** Happy coding
+ **4.** Happy coding
 
 	Go to the project and start working on it
 
+
+
+**Note**, if you are getting permissions errors installing these plugins you may have to prepend those commands with sudo!
 
 ## Tools included
 
@@ -55,7 +58,8 @@ It includes the best practices for frontend development of the modern web.
 - Modernizr.js
 - Jquery
 - Angular.js
-- Livereload with Gulp.js
+- Gulp.js
+- Sass
 
 
 ## Be part of this
