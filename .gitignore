@@ -1,2 +1,4 @@
+.gitignore
+README.md
 bower_components
 commit.sh

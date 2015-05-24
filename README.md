@@ -14,15 +14,15 @@ This one includes the best practices for the frontend development of the modern 
   	git clone https://github.com/zdr00/OwnFront.git
   	```
 
- - **ii.** Install **npm**, **bower**, and **gulp**
+ - **ii.** Install **npm**, **bower**, and **gulp** via the command line
 	
-	Go to the official website of nodejs [Nodejs](https://www.google.com) to install in your OS, npm comes with it
+	Go to the official website of [Nodejs](https://www.google.com) to install it in your OS, npm comes with it
 
 	Install bower
 	``` 				
 	npm install --global bower
 	```
-	Install gulp on your system
+	Install gulp
 	```
 	npm install --global gulp
 	```	
