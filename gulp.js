@@ -9,14 +9,14 @@ var uglify = require('gulp-uglify');
 var rename = require('gulp-rename');
 var url    = 'assets/';
 
-// Lint Task
+// Check for errors on our JS code
 gulp.task('lint', function() {
     return gulp.src(url+'js/*.js')
         .pipe(jshint())
         .pipe(jshint.reporter('default'));
 });
 
-// Compile Our Sass
+// Compile the Sass
 gulp.task('sass', function() {
     return gulp.src(url+'scss/*.scss')
         .pipe(sass())
@@ -26,9 +26,9 @@ gulp.task('sass', function() {
 // Concatenate & Minify JS
 gulp.task('scripts', function() {
     return gulp.src(url+'js/*.js')
-        .pipe(concat('all.js'))
-        .pipe(gulp.dest('dist'))
-        .pipe(rename('all.min.js'))
+        .pipe(concat(url+'OwnFront.js'))
+        .pipe(gulp.dest(url+'dist'))
+        .pipe(rename(url+'OwnFront.min.js'))
         .pipe(uglify())
         .pipe(gulp.dest('dist'));
 });
@@ -37,7 +37,8 @@ gulp.task('scripts', function() {
 gulp.task('watch', function() {
     gulp.watch('js/*.js', ['lint', 'scripts']);
     gulp.watch('scss/*.scss', ['sass']);
+    guol.watch('s')
 });
 
 // Default Task
-gulp.task('default', ['lint', 'sass', 'scripts', 'watch']);
+gulp.task('OwnFront', ['lint', 'sass', 'scripts', 'watch']);
