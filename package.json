@@ -1,0 +1,28 @@
+{
+  "name": "OwnFront",
+  "version": "0.0.3",
+  "description": "Speed up the start of a new app",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-util": "^2.2.20",
+    "gulp-webserver": "^0.8.1"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zdr00/OwnFront.git"
+  },
+  "keywords": [
+    "Frontend"
+  ],
+  "author": "Diego Zamora Rodríguez <diego.zr@live.com.mx>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zdr00/OwnFront/issues"
+  },
+  "homepage": "https://github.com/zdr00/OwnFront"
+}

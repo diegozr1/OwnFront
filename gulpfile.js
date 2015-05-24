@@ -4,7 +4,7 @@ var gulp      = require('gulp'),
     webserver = require('gulp-webserver'),
     baseUrl   = 'development/';
 
-//Selecciona como funte de datos las siguientes carpetas
+//Selects as source of data the following
 gulp.task('js', function() {
   gulp.src(baseUrl+'js/**/*')
 });
@@ -17,7 +17,7 @@ gulp.task('css', function() {
   gulp.src(baseUrl+'/css/*.css')
 });
 
-//Observa los siguientes archivos para cambios
+//Watch for changes on the following files
 gulp.task('watch', function() {
   gulp.watch(baseUrl+'js/**/*', ['js']);
   gulp.watch(baseUrl+'css/*.css', ['css']);
@@ -33,5 +33,5 @@ gulp.task('webserver', function() {
     }));
 });
 
-//Arranca con la tarea default
+//Includes the tasks on the default task
 gulp.task('default', ['watch', 'html', 'js', 'css', 'webserver']);
