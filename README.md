@@ -1,4 +1,4 @@
-# OwnFront ![alt text](https://github.com/zdr00/OwnFront/blob/master/assets/img/logo.png "Logo")
+# ![alt text](https://github.com/zdr00/OwnFront/blob/master/assets/img/logo.png "Logo") OwnFront
 
 ### Speed up your start
 
