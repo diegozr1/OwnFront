@@ -1,6 +1,6 @@
 # ![alt text](https://github.com/zdr00/OwnFront/blob/master/assets/img/logo.png "Logo") OwnFront
 
-### Speed up your start
+### Speed up the start of a new web app
 
 This is a frontend template to quick start every web project you make, this is an open source template to speed up your development and make a completely free and flexible frontend app.
 
@@ -10,7 +10,7 @@ It includes the best practices for frontend development of the modern web.
 
 -  **1.** Download the zip file or clone the repo 
 
-  	'''git clone https://github.com/zdr00/OwnFront.git'''
+  	```git clone https://github.com/zdr00/OwnFront.git```
   	
 
 -  **2.** Install **npm**, **bower**, and **gulp** via the command line
