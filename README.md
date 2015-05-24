@@ -2,13 +2,13 @@
 
 ### Speed up your start
 
-This is a frontend template to quick start every project you make, this is an open source template to speed up a completely free and flexible frontend app development
+This is a frontend template to quick start every project you make, this is an open source template to speed up a completely free and flexible frontend app development.
 
-This one includes the best practices for the frontend development of the modern web.
+It includes the best practices for frontend development of the modern web.
 
 ## How to use
 
- - **i.** Download or clone the repo 
+ - **i.** Download the zip file or clone the repo 
 
   	```
   	git clone https://github.com/zdr00/OwnFront.git
@@ -16,7 +16,7 @@ This one includes the best practices for the frontend development of the modern 
 
  - **ii.** Install **npm**, **bower**, and **gulp** via the command line
 	
-	Go to the official website of [Nodejs](https://www.google.com) to install it in your OS, npm comes with it
+	Go to the official website of [Nodejs](https://www.google.com) to install it on your OS, npm comes with it
 
 	Install bower
 	``` 				
@@ -27,7 +27,13 @@ This one includes the best practices for the frontend development of the modern 
 	npm install --global gulp
 	```	
 
- - **iii.** Run **gulp**	
+ - **iii.** Go the folder and 
+
+ 	Install the bower components
+
+ 	```
+ 		bower install
+ 	```
 	
 	And go to your browser
 
