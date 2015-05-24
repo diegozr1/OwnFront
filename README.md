@@ -19,10 +19,13 @@ It includes the best practices for frontend development of the modern web.
 	Go to the official website of [Nodejs](https://www.nodejs.org) to install it on your OS, npm comes with it
 
 	Install bower
+
 	``` 				
 	npm install --global bower
 	```
+
 	Install gulp
+
 	```
 	npm install --global gulp
 	```	
@@ -36,6 +39,7 @@ It includes the best practices for frontend development of the modern web.
  	```
 
  	Install the **npm** components
+ 	
 	```
 	npm install
 	```
