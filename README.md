@@ -8,13 +8,11 @@ This one includes the best practices for the frontend development of the modern 
 
 ## How to use
 
- - i. Download or clone the repo 
+ - **i.** Download or clone the repo 
 
-  	```
-  		git clone https://github.com/zdr00/OwnFront.git
+  	```git clone https://github.com/zdr00/OwnFront.git```
 
-  	```
- - ii. Install **npm**, **bower**, and **gulp**
+ - **ii.** Install **npm**, **bower**, and **gulp**
 	
 	Go to the official to install in your OS [Nodejs](https://www.google.com), npm comes with it
 
@@ -27,13 +25,13 @@ This one includes the best practices for the frontend development of the modern 
 		npm install --global gulp
 	```	
 
- - iii. Run **gulp**	
+ - **iii.** Run **gulp**	
 	
 	And go to your browser
 
- - iiii. Happy coding
+ - **iiii.** Happy coding
 
-	Go to the folder and start working on them
+	Go to the project and start working on it
 
 ## Tools included
 
