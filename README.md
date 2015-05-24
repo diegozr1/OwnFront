@@ -50,13 +50,11 @@ It includes the best practices for frontend development of the modern web, a liv
 
 	Run **gulp**
 
-	```gulp```
+	``` gulp ```
 	
 	You can make it in one line 
 
-	```
-	npm install && bower install && gulp
-	```
+	``` npm install && bower install && gulp ```
 
 	And go to your browser at [http://localhost:8000](http://localhost:8000)
 
