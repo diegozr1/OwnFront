@@ -19,34 +19,34 @@ It includes the best practices for frontend development of the modern web.
 
 	Install bower
 
-	npm install --global bower
+	```npm install --global bower```
 	
 
 	Install gulp
 	
-	npm install --global gulp
+	```npm install --global gulp```
 	
+	**Note**, if you are getting permissions errors installing these plugins you may have to prepend those commands with sudo!
 
 - **3.** Go the folder *OwnFront* and 
 
  	Install the **bower** components
 
- 	``` bower install 	
+ 	``` bower install ```
 
  	Install the **npm** components
 
-	``` npm install
+	``` npm install ```
 
 	
 	And go to your browser at [http://localhost:1337](https://www.nodejs.org)
 
 - **4.** Happy coding
 
-	Go to the project and start working on it
+	Go to the *development* folder and start working on it, later you can check the production files on the folder with the same name
 
 
 
-**Note**, if you are getting permissions errors installing these plugins you may have to prepend those commands with sudo!
 
 ## Tools included
 

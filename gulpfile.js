@@ -26,7 +26,7 @@ gulp.task('watch', function() {
 
 //Inicia el servidor
 gulp.task('webserver', function() {
-  gulp.src('builds/development/')
+  gulp.src(baseUrl)
     .pipe(webserver({
       livereload: true,
       open: true

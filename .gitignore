@@ -1,4 +1,7 @@
 .gitignore
-README.md
+.DS_Store
+.tmp
 bower_components
+node_modules
 commit.sh
+npm-debug.log
