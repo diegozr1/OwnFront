@@ -1,19 +1,20 @@
 # OwnFront
 
-Your own frontend framework, this is a open source framework to speed up a completely free frontend app development
+Your own frontend template, this is a open source framework to speed up a completely free and flexible frontend app development
 
-This one includes best practices for css and frontend development for the modern web.
+This one includes best practices for the frontend development of the modern web.
 
 
-# Tools (to be) included
+# Tools included
+
 - Normalize
 - Modernizr
 - Jquery
 - Angular.js
-- Gulp
-- Sass
+- Gulp.js
 
 
 # Be part of this
 
-Feel free to colaborate to this and make recommendations
+
+Feel free to colaborate and make recommendations
