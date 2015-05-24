@@ -1,10 +1,10 @@
 {
-  "name": "OwnFrontend",
+  "name": "OwnFront",
   "version": "0.0.1",
   "authors": [
     "Diego Zamora Rodriguez <diego.zr@live.com.mx>"
   ],
-  "description": "Your own frontend framework",
+  "description": "Speed up your quick start",
   "main": "index.html",
   "keywords": [
     "Mine",
